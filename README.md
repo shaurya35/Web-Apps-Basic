@@ -28,19 +28,21 @@
 24. <i>(Successful with the task)</i>
 25. Figure out global and user specific frontend
 26. <i>(Failed the task due to time constrain)</i>
-27. <i>Images Related the project<i>
 <br>
 
 Improved idea for the project: Instead of this:
 1. Create a table with fields as (‘event_name’, ’data’ ,’time’, ‘location’ ,’image’, ‘is_liked’, ‘user_id’).
 By default, is_liked is false.
 Create a form to add a new event/entry to the database for the specific user
+<br>
 I tried to implement this: since adding is_liked to every post, it will create multiple events to each posts which will be made for all the users.
 A better implementation would be making userid and islike in another database
 <br>
 
 To the company- Thank you for the opportunity: I would like to go forward with Django Rest framework with React and complete this project as my next full stack task and improve my code.
 Here is the link of all the progress panels I made.
+<br>
+<i>Images Related the project<i>
 The link will redirect you to imgur site where the files are uploaded.
 FrontEnd UI: https://imgur.com/a/cIZDCcs  
 Django Admin Panel: https://imgur.com/a/AUcjXIl
